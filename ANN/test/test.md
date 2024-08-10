@@ -171,7 +171,7 @@ What is the task of convolutional layers?
 - **Basics of GNN**
 - **Message Passing**
 
-There will be no coding tasks. To prepare for the exam, it is worth reviewing the links that were sent to you for the classes. Below are some useful links, you will find the rest of the materials :)
+
 
 #### Gradients:
 - **CNN**: 
